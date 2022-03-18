@@ -1,4 +1,4 @@
-# Router-operation
+# Router operation
 Router operation simulation
 
 In this project we simulate the operation of routers that are available on a network. Assume that N routers are available on the network and each of them is characterized by:
