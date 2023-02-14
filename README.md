@@ -8,6 +8,6 @@ In this project we simulate the operation of routers that are available on a net
 * Maximum number of packages that can be managed
 * Percentage of load
 
-The application processes the information. Whenever a packet arrives at a router, it will decide which router to forward it to until reaches the destination.
+The application processes the information. Whenever a packet arrives at a router, it performs route processing and distributes forwarding tables until reaches the destination.
 
 Each router receives packets according to the routing table. We assume that each packet needs a random period of time to be processed.
